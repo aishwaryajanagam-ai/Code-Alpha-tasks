@@ -1,7 +1,6 @@
 # Code-Alpha-tasks
 
-##CodeAlpha Data Science Internship Tasks 
-   Machine Learning and Data Analysis Projects including Iris Flower Classification, Car Price Prediction using  Python.
+CodeAlpha Data Science Internship Tasks  - Machine Learning and Data Analysis Projects including Iris Flower Classification, Car Price Prediction using  Python.
 This repository contains all tasks completed during the CodeAlpha Data Science Internship.
 
 ## Tasks Completed
