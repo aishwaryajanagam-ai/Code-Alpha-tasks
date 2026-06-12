@@ -30,7 +30,4 @@ This repository contains all tasks completed during the CodeAlpha Data Science I
 ## Author
 
 Aishwarya Janagam
-
-## Internship
-
-CodeAlpha Data Science Internship
+Data science Intern | Codealpha
