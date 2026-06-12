@@ -84,8 +84,5 @@ The dataset contains information such as:
 
 **Aishwarya Janagam**
 
-B.Tech CSE (Data Science)
+Data Science Intern |Codealpha
 
-## Internship
-
-Completed as part of the **CodeAlpha Data Science Internship**.
